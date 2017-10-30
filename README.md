@@ -1,7 +1,7 @@
 # papertole-bob-dylan
 .studio3 Silhouette files to handcraft one of his famous pictures.
 
-(result.gif)[https://github.com/dgulabs/papertole-bob-dylan/blob/master/result.gif]
+![result.gif](https://github.com/dgulabs/papertole-bob-dylan/blob/master/result.gif)
 
 ## Notes
 - Every .studio3 completes a layer in a papertole frame, being 0.studio3 the one at the bottom.
