@@ -3,4 +3,4 @@
 
 ## Notes
 - Every .studio3 completes a layer in a papertole frame, being 0.studio3 the one at the bottom.
-- The photo might have a copyright (important in case you want to sell a frame).
+- The original photo can be obtained from [here](https://i.pinimg.com/736x/d4/6c/c7/d46cc7ac45b2d0dc10b635860ab47632--bob-dylan-famous-faces.jpg). Beware of copyrights.
